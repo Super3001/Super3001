@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning ...
 1. PL: Haskell, OCaml, Cangjie, ArkTS
-2. compilers ([ArkCompiler](https://gitee.com/openharmony/arkcompiler_runtime_core))
+2. compilers ([ArkCompiler-frontend](https://gitee.com/openharmony/arkcompiler_ets_frontend), [ArkCompiler-runtime](https://gitee.com/openharmony/arkcompiler_runtime_core))
 
 - 😄 Other:
 1. I'm a long-distance running lover

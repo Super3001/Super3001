@@ -19,6 +19,10 @@
 1. PL: Haskell, OCaml, Cangjie, ArkTS
 2. compilers
 
+- 😄 Other:
+1. I'm a long-term runner
+2. I'm a subway (traffic) enthusiast
+
 - 📫 How to reach me:
 1. 1120210539@bit.edu.cn
 2. 13263124386 (wechat & whatsApp)

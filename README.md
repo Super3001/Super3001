@@ -20,7 +20,7 @@
 2. compilers
 
 - 😄 Other:
-1. I'm a long-term runner
+1. I'm a long-distance running lover
 2. I'm a subway (traffic) enthusiast
 
 - 📫 How to reach me:

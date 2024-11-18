@@ -12,7 +12,7 @@
 3. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on
-1. Cangjie-TPC (Third-Party Codebase) development
+1. Cangjie-TPC (Third-Party Components) development
 2. HarmonyOS App development (in Cangjie & ArkTS)
 
 - 🌱 I’m currently learning ...

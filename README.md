@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on
 1. Text-Finer (a BNF & Regex parser, may be a Canjie-TPC in the future)
 2. a HarmonyOS App in Cangjie & ArkTS
-3. Insect Trajectory Prediction with Stimulus (FYP)
+3. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on
 1. Cangjie-TPC (Third-Party Codebase) development
@@ -20,10 +20,8 @@
 2. compilers
 
 - 📫 How to reach me:
-1. songyufan2687@outlook.com
-2. songyufan2003@163.com
-3. 1120210539@bit.edu.cn
-4. 13263124386 (wechat & whatsApp)
+1. 1120210539@bit.edu.cn
+2. 13263124386 (wechat & whatsApp)
 
 <!--
 **Super3001/Super3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

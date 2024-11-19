@@ -2,14 +2,14 @@
 
 - ⚡ I'm interested in ...
 1. PL, FP, compilers, type systems, and DSL
-2. AI agents collaboration pattern design (particularly looking forward to Cangjie AgentDSL)
+2. AI agents collaboration pattern and scheduling (particularly looking forward to Cangjie AgentDSL)
 3. ~~self-interpret languages and information theory~~
 4. ~~knowledge representation in abstract spaces, explainable AI~~
 
 - 🔭 I’m currently working on
 1. Text-Finer (a BNF & Regex parser, maybe a future Canjie-TPC)
 2. Http3 Cangjie-TPC (migrate from [Golang](https://github.com/quic-go/quic-go))
-3. a HarmonyOS App in Cangjie & ArkTS (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
+3. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
 4. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on

@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">Hi 👋, I'm Super3001</h1>
+
+Karl Song
 
 - ⚡ I'm interested in ...
 1. PL, FP, compilers, type systems, and DSL
@@ -7,10 +10,10 @@
 4. ~~knowledge representation in abstract spaces, explainable AI~~
 
 - 🔭 I’m currently working on
-1. Text-Finer (a BNF & Regex parser, maybe a future Canjie-TPC)
-2. Http3 Cangjie-TPC (migrate from [Golang](https://github.com/quic-go/quic-go))
-3. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
-4. Insect Trajectory Prediction with Stimulus (my final-year project)
+1. Http3 Cangjie-TPC (migrate from [Golang](https://github.com/quic-go/quic-go))
+2. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
+3. Insect Trajectory Prediction with Stimulus (my final-year project)
+4. Text-Finer (a BNF & Regex parser, maybe a future Canjie-TPC)
 
 - 👯 I’m looking to collaborate on
 1. Cangjie-TPC (Third-Party Components) development
@@ -27,6 +30,14 @@
 - 📫 How to reach me:
 1. 1120210539@bit.edu.cn
 2. 13263124386 (wechat & whatsApp)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=super3001&label=Profile%20views&color=0e75b6&style=flat" alt="super3001" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=super3001&show_icons=true&locale=en&layout=compact" alt="super3001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=super3001&show_icons=true&locale=en" alt="super3001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=super3001&" alt="super3001" /></p>
 
 <!--
 **Super3001/Super3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

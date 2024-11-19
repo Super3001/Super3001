@@ -10,13 +10,13 @@ Karl Song
 4. ~~knowledge representation in abstract spaces, explainable AI~~
 
 - 🔭 I’m currently working on
-1. Http3 Cangjie-TPC (migrate from [Golang](https://github.com/quic-go/quic-go))
-2. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
-3. Insect Trajectory Prediction with Stimulus (my final-year project)
-4. Text-Finer (a BNF & Regex parser, maybe a future Canjie-TPC)
+1. Text-Finer (a structural text interpreter)
+2. Http3 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (migrate from [Golang](https://github.com/quic-go/quic-go))
+3. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
+4. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on
-1. Cangjie-TPC (Third-Party Components) development
+1. [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (Third-Party Components) development
 2. HarmonyOS App development (in Cangjie & ArkTS)
 
 - 🌱 I’m currently learning ...

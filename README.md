@@ -27,7 +27,7 @@ My Gitcode homepage is https://gitcode.com/FrontclvSong
    Rust, Zig
 2. compilers ([ArkCompiler-frontend](https://gitee.com/openharmony/arkcompiler_ets_frontend), [ArkCompiler-runtime](https://gitee.com/openharmony/arkcompiler_runtime_core))
 
-I'm currently pay attention to ...
+I'm currently paying attention to ...
 1. researches led by professors [Bruno C. d. S. Oliveira](https://hkuplg.github.io/) or [Lionel Parreaux](https://cse.hkust.edu.hk/~parreaux/)
 
 - 😄 Other:

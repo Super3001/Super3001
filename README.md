@@ -3,7 +3,7 @@
 
 Karl Song
 
-[My gitcode homepage](gitcode.com/FrontclvSong)
+My Gitcode homepage is https://gitcode.com/FrontclvSong
 
 - ⚡ I'm interested in ...
 1. PL, FP, compilers, type systems, and DSL

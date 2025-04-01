@@ -3,9 +3,11 @@
 
 Karl Song
 
+[My gitcode homepage](gitcode.com/FrontclvSong)
+
 - ⚡ I'm interested in ...
 1. PL, FP, compilers, type systems, and DSL
-2. AI agents collaboration pattern and scheduling (particularly looking forward to Cangjie AgentDSL)
+2. AI agents collaboration pattern and scheduling (particularly looking forward to [Cangjie AgentDSL](https://gitcode.com/Cangjie-TPC/CangjieMagic))
 3. ~~self-interpret languages and information theory~~
 4. ~~knowledge representation in abstract spaces, explainable AI~~
 
@@ -28,8 +30,9 @@ Karl Song
 2. I'm a subway (traffic) enthusiast
 
 - 📫 How to reach me:
-1. 1120210539@bit.edu.cn
+1. songyufan2003@163.com
 2. 13263124386 (wechat & whatsApp)
+3. 1120210539@bit.edu.cn (no longer use after Aug 2025)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super3001&label=Profile%20views&color=0e75b6&style=flat" alt="super3001" /> </p>
 

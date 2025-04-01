@@ -12,18 +12,23 @@ My Gitcode homepage is https://gitcode.com/FrontclvSong
 4. ~~knowledge representation in abstract spaces, explainable AI~~
 
 - 🔭 I’m currently working on
-1. Text-Finer (a structural text interpreter)
-2. Http3 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (migrate from [Golang](https://github.com/quic-go/quic-go))
-3. a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
-4. Insect Trajectory Prediction with Stimulus (my final-year project)
+1. Text-Finer (a structural text interpreter combined with AI agent capability)
+2. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on
-1. [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (Third-Party Components) development
-2. HarmonyOS App development (in Cangjie & ArkTS)
+1. [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (Third-Party Components) development, e.g.
+   Http3 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (migrate from [Golang](https://github.com/quic-go/quic-go))
+3. HarmonyOS App development (in Cangjie & ArkTS), e.g.
+   a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
 
 - 🌱 I’m currently learning ...
-1. PL: Haskell, OCaml, Cangjie, ArkTS
+1. programming languages:
+   Cangjie and its predecessors e.g. Go, Swift
+   Rust, Zig
 2. compilers ([ArkCompiler-frontend](https://gitee.com/openharmony/arkcompiler_ets_frontend), [ArkCompiler-runtime](https://gitee.com/openharmony/arkcompiler_runtime_core))
+
+I'm currently pay attention to ...
+1. researches led by professors [Bruno C. d. S. Oliveira](https://hkuplg.github.io/) or [Lionel Parreaux](https://cse.hkust.edu.hk/~parreaux/)
 
 - 😄 Other:
 1. I'm a long-distance running lover

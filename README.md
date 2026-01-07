@@ -13,22 +13,10 @@ My Gitcode homepage is https://gitcode.com/FrontclvSong
 
 - 🔭 I’m currently working on
 1. Text-Finer (a structural text interpreter combined with AI agent capability)
-2. Insect Trajectory Prediction with Stimulus (my final-year project)
 
 - 👯 I’m looking to collaborate on
-1. [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (Third-Party Components) development, e.g.
-   Http3 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) (migrate from [Golang](https://github.com/quic-go/quic-go))
-3. HarmonyOS App development (in Cangjie & ArkTS), e.g.
-   a HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
-
-- 🌱 I’m currently learning ...
-1. programming languages:
-   Cangjie and its predecessors e.g. Go, Swift
-   Rust, Zig
-2. compilers ([ArkCompiler-frontend](https://gitee.com/openharmony/arkcompiler_ets_frontend), [ArkCompiler-runtime](https://gitee.com/openharmony/arkcompiler_runtime_core))
-
-I'm currently paying attention to ...
-1. researches led by professors [Bruno C. d. S. Oliveira](https://hkuplg.github.io/) or [Lionel Parreaux](https://cse.hkust.edu.hk/~parreaux/)
+1. HarmonyOS App development (in Cangjie & ArkTS), e.g.
+   BIT101 HarmonyOS App in Cangjie (migrate from [BIT101-Android](https://github.com/BIT101-dev/BIT101-Android))
 
 - 😄 Other:
 1. I'm a long-distance running lover
@@ -36,16 +24,7 @@ I'm currently paying attention to ...
 
 - 📫 How to reach me:
 1. songyufan2003@163.com
-2. 13263124386 (wechat & whatsApp)
-3. 1120210539@bit.edu.cn (no longer use after Aug 2025)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=super3001&label=Profile%20views&color=0e75b6&style=flat" alt="super3001" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=super3001&show_icons=true&locale=en&layout=compact" alt="super3001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=super3001&show_icons=true&locale=en" alt="super3001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=super3001&" alt="super3001" /></p>
+2. 13263124386 (wechat)
 
 <!--
 **Super3001/Super3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
